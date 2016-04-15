@@ -1,19 +1,4 @@
-name: Chenguang Wang
-favicon: null
-layout_spectrum: 0.7145411460660398
-typography_spectrum: 0.24707915587350726
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#E0FBFC'
@@ -23,6 +8,11 @@ color:
     - '#253237'
   brandStrength: 0.8743259247858077
   lightness: 0.9377538929693401
-  saturation: 0.7673866015393287
   rhythmicContrast: 0.11507028923369944
+  saturation: 0.7673866015393287
+cta: {}
+layout_spectrum: 0.604729
+name: Chenguang Wang
+opengraph: {}
 purpose: []
+typography_spectrum: 0.24707915587350726
